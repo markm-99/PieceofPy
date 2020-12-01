@@ -1,7 +1,5 @@
-body{
-    background-color: #151313;
-}
-
-#backdrop{
-    background-color: #eef3ef;
+.btn-notify-subscribers {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 8px;
 }
