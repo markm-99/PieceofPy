@@ -1,5 +1,6 @@
+Ever wanted to learn Python from Scratch? Well here's a solution for you.
 
-Built a Python Tutorial website in Django! 
+With my team, we've built a Python Tutorial website in Django! 
 
 Provides a plethora of resources for anyone to learn Python with ease.
 
